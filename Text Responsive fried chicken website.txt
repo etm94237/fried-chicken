@@ -13,9 +13,9 @@ Tasty <span>Fried</span> <br>
 <span>Chicken</span> 
 
 .home__description
-Come enjoy the best and crispiest fried 
-chicken made with the best ingredients, 
-one bite and you'll want more.
+Crispy & <br> 
+Tasty <span>Fried</span> <br> 
+<span>Chicken</span> 
 
 .button
 About Fried Chicken
