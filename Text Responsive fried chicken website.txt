@@ -42,7 +42,7 @@ Best Recipe <br> Since 1990
 
 ========== ORDER ==========
 .section__title
-The Tastiest <br> 
+The Tastiest <br>
 & <span>Most Bitten</span>
 
 .order__title .order__subtitle .order__price
